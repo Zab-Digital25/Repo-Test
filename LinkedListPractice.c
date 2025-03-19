@@ -22,6 +22,8 @@ int main()
     for (array_index = 0; array_index < 6; array_index++)
         insert_at_beginning(&p_start, array[array_index]);
 
+    printf("First Commit");
+
     return 0;
 }
 
